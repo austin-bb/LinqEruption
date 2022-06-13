@@ -1,0 +1,15 @@
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/bin/Debug/net6.0/LinqEruption
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/bin/Debug/net6.0/LinqEruption.deps.json
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/bin/Debug/net6.0/LinqEruption.runtimeconfig.json
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/bin/Debug/net6.0/LinqEruption.dll
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/bin/Debug/net6.0/LinqEruption.pdb
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/LinqEruption.csproj.AssemblyReference.cache
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/LinqEruption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/LinqEruption.AssemblyInfoInputs.cache
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/LinqEruption.AssemblyInfo.cs
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/LinqEruption.csproj.CoreCompileInputs.cache
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/LinqEruption.dll
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/refint/LinqEruption.dll
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/LinqEruption.pdb
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/LinqEruption.genruntimeconfig.cache
+/Users/austin/Desktop/C#/ORMs/LINQ/LinqEruption/obj/Debug/net6.0/ref/LinqEruption.dll
